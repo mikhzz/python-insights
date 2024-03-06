@@ -27,6 +27,9 @@ cd exemplo-analise-dados
 Abra o arquivo Jupyter Notebook inicial.ipynb para visualizar e executar o código.
 
 Autor
+
 Mikael
+
 GitHub: mikhzz
+
 Este projeto é fornecido como um exemplo educacional e prático de como realizar análise de dados em Python. Sinta-se à vontade para explorar, modificar e aprender com o código fornecido. Se tiver alguma dúvida ou sugestão, entre em contato com o autor.
